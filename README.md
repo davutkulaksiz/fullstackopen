@@ -10,25 +10,6 @@ This course is an introduction to modern web development with JavaScript. The ma
 
 Other topics include debugging applications, configuration, managing runtime environments and NoSQL databases.
 
-## Exercises done per round
-
-| Part      | Exercises   |
-| --------- | ----------- |
-| 0         | 6/6         |
-| 1         | 14/14       |
-| 2         | 20/20       |
-| 3         | 22/22       |
-| 4         | 22/22       |
-| 5         | 22/22       |
-| 6         | 21/21       |
-| 7         | 21/21       |
-| 8         | 26/26       |
-| 9         | 27/27       |
-| 10        | /27         |
-| **Total** | **201/228** |
-
-### [Certificate](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/fadeb0d609282f4fd36570c70db8e945 'Certificate')
-
 ## Course material
 
 ### Part 0: Fundamentals of Web apps
@@ -83,9 +64,9 @@ Other topics include debugging applications, configuration, managing runtime env
 
 - React-router
 - Custom hooks
-- More about styles
+- More about Styles
 - Webpack
-- Class components, E2E-testing
+- Class components, Miscellaneous
 - Exercises: extending the bloglist
 
 ### Part 8: GraphQL
@@ -94,13 +75,13 @@ Other topics include debugging applications, configuration, managing runtime env
 - React and GraphQL
 - Database and user administration
 - Login and updating the cache
-- Fragments and subscriptions
+- Fragments and Subscriptions
 
 ### Part 9: Typescript
 
 - Background and Introduction
 - First Steps with Typescript
-- Typing express app
+- Typing the express app
 - React with types
 
 ### Part 10: React Native
@@ -109,3 +90,11 @@ Other topics include debugging applications, configuration, managing runtime env
 - React Native basics
 - Communicating with server
 - Testing and extending our application
+
+### Part 11: CI / CD
+
+- Introduction to CI / CD
+- Getting started with GitHub Actions
+- Deployment
+- Keeping green
+- Expanding Further
