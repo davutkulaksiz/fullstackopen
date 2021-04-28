@@ -1,4 +1,4 @@
-# [Full Stack Open 2020](https://fullstackopen.com/en/ 'Full Stack Open 2020 Homepage')
+# [Full Stack Open 2021](https://fullstackopen.com/en/ 'Full Stack Open 2021 Homepage')
 
 <img src="https://fullstackopen.com/static/EYE_green_wide-0a72f74a959f54d0f3e4bb8c67f6f158.jpg"></img>
 
