@@ -17,7 +17,7 @@ Other topics include debugging applications, configuration, managing runtime env
 - General info
 - Fundamentals of Web apps
 
-### Part 1: Introduction to React
+### Part 1: Introduction to React :white_check_mark:
 
 - Introduction to React
 - Javascript
