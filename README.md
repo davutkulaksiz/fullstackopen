@@ -17,14 +17,14 @@ Other topics include debugging applications, configuration, managing runtime env
 - General info
 - Fundamentals of Web apps
 
-### Part 1: Introduction to React
+### Part 1: Introduction to React :white_check_mark:
 
 - Introduction to React
 - Javascript
 - Component state, event handlers
 - A more complex state, debugging React apps
 
-### Part 2: Communicating with server
+### Part 2: Communicating with server -working on this :clock130:-
 
 - Rendering a collection, modules
 - Forms
