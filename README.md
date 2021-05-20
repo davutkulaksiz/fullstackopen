@@ -24,7 +24,7 @@ Other topics include debugging applications, configuration, managing runtime env
 - Component state, event handlers
 - A more complex state, debugging React apps
 
-### Part 2: Communicating with server -working on this :clock130:-
+### Part 2: Communicating with server :white_check_mark:
 
 - Rendering a collection, modules
 - Forms
@@ -32,7 +32,7 @@ Other topics include debugging applications, configuration, managing runtime env
 - Altering data in server
 - Adding styles to React app
 
-### Part 3: Programming a server with NodeJS and Express
+### Part 3: Programming a server with NodeJS and Express -working on this :clock130:-
 
 - Node.js and Express
 - Deploying app to internet
